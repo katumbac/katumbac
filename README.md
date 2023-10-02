@@ -13,8 +13,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Nombre: Katherine Tumbaco
 * Ocupación: Estudiante de Espol
 * Lugar de residencia: Guayaquil-Ecuador
-* Sitio web:
-**[Linkelind] (https://www.linkedin.com/in/katumbac/)
+* Sitio web: [Linkelind] (https://www.linkedin.com/in/katumbac/)
   
 ## Proyectos
 * [Medidores Analogicos y Inteligente] (https://github.com/katumbac/proyecto1_grupo11.git)
