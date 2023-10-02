@@ -11,12 +11,13 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Información Personal
 
 * Nombre: Katherine Tumbaco
-* Ocupación: Estudiante
+* Ocupación: Estudiante de Espol
 * Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: Tu sitio web
   
 ## Proyectos
-* [Lista de tus proyectos]
+* [Proyecto 1 Programación Orientada a Objetos] (https://github.com/katumbac/proyecto1_grupo11.git)
+* [Proyecto Base de datos] (https://github.com/katumbac/Proyecto06_ED_P2.git)
   
 ## Intereses
 
