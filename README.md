@@ -15,7 +15,7 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 * Ocupación: Estudiante de Espol en la carrera de Ingeniería en Computación
 * Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: 
-  * [Linkelind] (https://www.linkedin.com/in/katumbac/)
+  * [Linkelind Personal](https://www.linkedin.com/in/katumbac/)
   
 ## Proyectos
 * [Medidores Analogicos y Inteligente](https://github.com/katumbac/proyecto1_grupo11.git)
@@ -29,6 +29,7 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 - **Institución:** Google Actívate
 - **Fecha de finalización:** Abril de 2020
 - **Descripción:** Durante este curso introductorio al desarrollo web, tuve la oportunidad de sumergirme en los fundamentos del diseño y la creación de sitios web. Una parte esencial de este curso fue la introducción y el uso práctico de HTML5.
+  [Certificado](https://learndigital.withgoogle.com/activate/validate-certificate-code)
 
 ### Curso 2: Introducción al Desarrollo Web: HTML y CSS (2/2) 
 
