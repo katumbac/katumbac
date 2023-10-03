@@ -15,7 +15,7 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 * Ocupación: Estudiante de Espol en la carrera de Ingeniería en Computación
 * Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: 
-  * [Linkelind Personal](https://www.linkedin.com/in/katumbac/)
+  * [Linkedin Personal](https://www.linkedin.com/in/katumbac/)
   
 ## Proyectos
 * [Medidores Analogicos y Inteligente](https://github.com/katumbac/proyecto1_grupo11.git)
