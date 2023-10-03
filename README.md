@@ -1,6 +1,6 @@
 # Repositorio Personal
 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados y mis intereses.
 
 ## Contenido
 
@@ -11,14 +11,19 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Información Personal
 
 * Nombre: Katherine Tumbaco
-* Ocupación: Estudiante de Espol
+* Ocupación: Estudiante de Espol en la carrera de Ingeniería en Computación
 * Lugar de residencia: Guayaquil-Ecuador
-* Sitio web: [Linkelind] (https://www.linkedin.com/in/katumbac/)
+* Sitio web: 
+  * [Linkelind] (https://www.linkedin.com/in/katumbac/)
   
 ## Proyectos
 * [Medidores Analogicos y Inteligente] (https://github.com/katumbac/proyecto1_grupo11.git)
 * [Adivinanzas de animales] (https://github.com/katumbac/Proyecto06_ED_P2.git)
-  
+- README.md (Página principal del repositorio)
+- Cursos/
+  - curso1.md
+  - curso2.md
+  - curso3.md  
 ## Intereses
 
 * [Lista de tus intereses]
