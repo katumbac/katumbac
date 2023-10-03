@@ -16,11 +16,17 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 * Lugar de residencia: Guayaquil-Ecuador
 * Sitio web: 
   * [Linkedin Personal](https://www.linkedin.com/in/katumbac/)
-  
+
+
 ## Proyectos
 * [Medidores Analogicos y Inteligente](https://github.com/katumbac/proyecto1_grupo11.git)
-* [Adivinanzas de animales](https://github.com/katumbac/Proyecto06_ED_P2.git)
+* [¿En qué animal estás pensando?](https://github.com/katumbac/Proyecto06_ED_P2.git)
+  
+  ![En que animal estas pensando ](https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41)
 * [Implementación de una red de VOZ sobre IP](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc)
+  
+ ![Implementación de una red de VOZ sobre IP](https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c)
+
 
 ## Cursos
 
