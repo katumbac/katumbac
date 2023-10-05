@@ -21,10 +21,10 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 ## Proyectos
 * [¿En qué animal estás pensando?](https://github.com/katumbac/Proyecto06_ED_P2.git)
   **Colaboradores:** Katherine Tumbaco - Juan Demera - David Rivera 
-  ![En que animal estas pensando ](https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41)
-* [Implementación de una red de VOZ sobre IP](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc) (https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41)
+  [![Texto alternativo](https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41)](https://github.com/katumbac/Proyecto06_ED_P2)
+* [Implementación de una red de VOZ sobre IP](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc)
   **Colaboradores:** Katherine Tumbaco- Roberto Encalda - Roberto Patiño
- ![Implementación de una red de VOZ sobre IP](https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c)
+ [![Implementación de una red de VOZ sobre IP](https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c)](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc)
 
 
 ## Cursos
