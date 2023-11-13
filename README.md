@@ -1,32 +1,34 @@
-# Repositorio Personal
-
-Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados y mis intereses.
+<h1 align="center"> Katherine Tumbaco🙋‍♀️ </h1>
+<h3 align="center">
+  Estudiante de Espol en la carrera de Ingeniería en Computación
+</h3>
 
 ## Contenido
-
-* [Información personal](#información-personal) 👩
+* [Contacto](#contacto) 📁
 * [Proyectos](#proyectos) 📁
 * [Cursos](#cursos) 📖
 * [Intereses](#intereses) 💻
 
-## Información Personal
+## Contacto
 
-* Nombre: Katherine Tumbaco
-* Ocupación: Estudiante de Espol en la carrera de Ingeniería en Computación
-* Lugar de residencia: Guayaquil-Ecuador
-* Sitio web: 
-  * [Linkedin Personal](https://www.linkedin.com/in/katumbac/)
+<p align="left">
+<a href="https://www.linkedin.com/in/katumbac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Katherine Tumbaco Linledin" height="30" width="40" /></a>
+</p>
 
 
 ## Proyectos
 * [¿En qué animal estás pensando?](https://github.com/katumbac/Proyecto06_ED_P2.git)
-  **Colaboradores:** Katherine Tumbaco - Juan Demera - David Rivera 
-  [![¿En qué animal estás pensando?](https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41)](https://github.com/katumbac/Proyecto06_ED_P2)
+  **Colaboradores:** Katherine Tumbaco-Juan Demera-David Rivera 
+  <a href="https://github.com/katumbac/Proyecto06_ED_P2">
+    <img src="https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41" width="20%"/>
+  </a>
+ 
 * [Implementación de una red de VOZ sobre IP](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc)
-  **Colaboradores:** Katherine Tumbaco- Roberto Encalda - Roberto Patiño
- [![Implementación de una red de VOZ sobre IP](https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c)](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc)
-
-
+  **Colaboradores:** Katherine Tumbaco-Roberto Encalda-Roberto Patiño
+  <a href="https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc">
+    <img src="https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c" width="20%"/>
+  </a>
+  
 ## Cursos
 
 | Nombre del curso | Institución | Fecha de Finalización  | Descripción | 
