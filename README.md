@@ -7,7 +7,7 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 * [Información personal](#información-personal) 👩
 * [Proyectos](#proyectos) 📁
 * [Cursos](#cursos) 📖
-* [Intereses](#intereses) :computer:
+* [Intereses](#intereses) 💻
 
 ## Información Personal
 
@@ -29,33 +29,16 @@ Aquí puedes encontrar información sobre mí, mis proyectos, cursos realizados 
 
 ## Cursos
 
-### Curso 1: Introducción al Desarrollo Web: HTML y CSS (1/2) 
-
-- **Institución:** Google Actívate
-- **Fecha de finalización:** Abril de 2020
-- **Descripción:** Durante este curso introductorio al desarrollo web, tuve la oportunidad de sumergirme en los fundamentos del diseño y la creación de sitios web. Una parte esencial de este curso fue la introducción y el uso práctico de HTML5.
-
-### Curso 2: Introducción al Desarrollo Web: HTML y CSS (2/2) 
-
-- **Institución:** Google Actívate
-- **Fecha de finalización:** Junio de 2020
-- **Descripción:** En esta segunda parte del curso complete los conceptos básicos de HTML y de esta forma completar la formación con el lenguaje CSS para poder mejorar el diseño visual, es decir, que se vea de una manera profesional.
-
-### Curso 3: Introducción a IoT
-
-- **Institución:** Cisco Networking Academy
-- **Fecha de finalización:** Julio de 2020
-- **Descripción:** Este curso proporcionó una formación sólida en redes de datos donde adquirí habilidades en configuración de redes, administración de dispositivos de red y seguridad de redes. También obtuve experiencia práctica utilizando herramientas como Cisco Packet Tracer para realizar simulaciones de red y comprender cómo funciona Internet de las cosas.
+| Nombre del curso | Institución | Fecha de Finalización  | Descripción | 
+| ------------- | ------------- | ------------- | ------------- |
+| Introducción al Desarrollo Web: HTML y CSS (1/2)  | Google Actívate | Abril de 2020 | Durante este curso introductorio al desarrollo web, tuve la oportunidad de sumergirme en los fundamentos del diseño y la creación de sitios web. Una parte esencial de este curso fue la introducción y el uso práctico de HTML5. |
+| Introducción al Desarrollo Web: HTML y CSS (2/2)  | Google Actívate | Junio de 2020 | En esta segunda parte del curso complete los conceptos básicos de HTML y de esta forma completar la formación con el lenguaje CSS para poder mejorar el diseño visual, es decir, que se vea de una manera profesional.|
+| Introducción a IoT | Cisco Networking Academy | Julio de 2020 | Este curso proporcionó una formación sólida en redes de datos donde adquirí habilidades en configuración de redes, administración de dispositivos de red y seguridad de redes. También obtuve experiencia práctica utilizando herramientas como Cisco Packet Tracer para realizar simulaciones de red y comprender cómo funciona Internet de las cosas.|
+| Protege tu Negocio: Ciberseguridad en el Teletrabajo | Google Actívate | Marzo de 2022 | Este curso introductorio en ciberseguridad me proporcionó una sólida base de conocimientos esenciales en el campo de la seguridad informática.|
   
-### Curso 4: Protege tu Negocio: Ciberseguridad en el Teletrabajo
-
-- **Institución:** Google Actívate
-- **Fecha de finalización:** Marzo de 2022
-- **Descripción:** Este curso introductorio en ciberseguridad me proporcionó una sólida base de conocimientos esenciales en el campo de la seguridad informática.
-
 ## Intereses
 
-* Ciberseguridad :lock: :shield: :computer:
-* Desarrollo web :computer: :computer: 🌍
+* Ciberseguridad 🔒 🛡️ 💻
+* Desarrollo web 💻 🌍
 * Internet de las cosas 🌍📡🌐
 
