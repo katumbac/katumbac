@@ -5,9 +5,10 @@
 
 ## Contenido
 * [Contacto](#contacto) 📁
+* [Intereses](#intereses) 💻
 * [Proyectos](#proyectos) 📁
 * [Cursos](#cursos) 📖
-* [Intereses](#intereses) 💻
+
 
 ## Contacto
 
@@ -15,20 +16,21 @@
 <a href="https://www.linkedin.com/in/katumbac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Katherine Tumbaco Linledin" height="30" width="40" /></a>
 </p>
 
+## Intereses
+
+* Ciberseguridad 🔒 🛡️ 💻
+* Desarrollo web 💻 🌍
+* Internet de las cosas 🌍📡🌐
 
 ## Proyectos
-* [¿En qué animal estás pensando?](https://github.com/katumbac/Proyecto06_ED_P2.git)
-  **Colaboradores:** Katherine Tumbaco-Juan Demera-David Rivera 
-  <a href="https://github.com/katumbac/Proyecto06_ED_P2">
-    <img src="https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41" width="20%"/>
-  </a>
- 
-* [Implementación de una red de VOZ sobre IP](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc)
-  **Colaboradores:** Katherine Tumbaco-Roberto Encalda-Roberto Patiño
-  <a href="https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc">
-    <img src="https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c" width="20%"/>
-  </a>
-  
+
+  | Proyecto | Descripción | Colaboradores | Enlace | Vista Previa |
+  |----------|-------------|---------------|--------|--------------|
+  | ¿En qué animal estás pensando? | Juego interactivo para adivinar el animal pensado. | Katherine Tumbaco, Juan Demera, David Rivera | [¿En qué animal estás pensando?](https://github.com/katumbac/Proyecto06_ED_P2.git) | [![Vista Previa](https://github.com/katumbac/katumbac/assets/93357018/baf46b1a-ca6e-45a8-b1e0-9a407fa9af41)](https://github.com/katumbac/Proyecto06_ED_P2) |
+  | Implementación de una red de VOZ sobre IP | Implementación de una red VoIP | Katherine Tumbaco, Roberto Encalda, Roberto Patiño | [Vídeo en YouTube](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc) | [![Vista Previa](https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c)](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc) |
+  | Página Web - Curriculum | Creación de una pagina web con la información del curriculum | Katherine Tumbaco  | [Enlace](https://katumbac.github.io/curriculum/) |  ![curri](https://github.com/katumbac/katumbac/assets/93357018/391a743e-5ce4-4f86-aa17-a27c970c2274) |
+  | Página Web - Landing Page | Creación de una pagina web Landing Page desde una plantilla de bootstrapmade | Katherine Tumbaco  | [Enlace](https://katumbac.github.io/landing/) |  ![lading](https://github.com/katumbac/katumbac/assets/93357018/3609f709-7a3e-42bb-a55c-60d5312372f5)|
+
 ## Cursos
 
 | Nombre del curso | Institución | Fecha de Finalización  | Descripción | 
@@ -38,9 +40,5 @@
 | Introducción a IoT | Cisco Networking Academy | Julio de 2020 | Este curso proporcionó una formación sólida en redes de datos donde adquirí habilidades en configuración de redes, administración de dispositivos de red y seguridad de redes. También obtuve experiencia práctica utilizando herramientas como Cisco Packet Tracer para realizar simulaciones de red y comprender cómo funciona Internet de las cosas.|
 | Protege tu Negocio: Ciberseguridad en el Teletrabajo | Google Actívate | Marzo de 2022 | Este curso introductorio en ciberseguridad me proporcionó una sólida base de conocimientos esenciales en el campo de la seguridad informática.|
   
-## Intereses
 
-* Ciberseguridad 🔒 🛡️ 💻
-* Desarrollo web 💻 🌍
-* Internet de las cosas 🌍📡🌐
 
