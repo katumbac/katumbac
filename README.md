@@ -43,6 +43,7 @@
   | Implementación de una red de VOZ sobre IP | Implementación de una red VoIP | Katherine Tumbaco, Roberto Encalda, Roberto Patiño | [Vídeo en YouTube](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc) | [![Vista Previa](https://github.com/katumbac/katumbac/assets/93357018/90cfb95f-14a6-4ad7-acc1-c8f6baea9c1c)](https://youtu.be/ipC09Juz4-k?si=E6_pUEa8MS9ACOXc) |
   | Página Web - Curriculum | Creación de una pagina web con la información del curriculum | Katherine Tumbaco  | [Enlace](https://katumbac.github.io/curriculum/) |  ![curri](https://github.com/katumbac/katumbac/assets/93357018/391a743e-5ce4-4f86-aa17-a27c970c2274) |
   | Página Web - Landing Page | Creación de una pagina web Landing Page desde una plantilla de bootstrapmade | Katherine Tumbaco  | [Enlace](https://katumbac.github.io/landing/) |  ![lading](https://github.com/katumbac/katumbac/assets/93357018/3609f709-7a3e-42bb-a55c-60d5312372f5)|
+  | Página Web - Dashboard | Creación de una pagina web Climate Dashboard con Manejo de ORS, gráficos con Chart.js y  Peticiones asincrónicas | Katherine Tumbaco |[Enlace](https://katumbac.github.io/Dashboard/) | ![Captura de pantalla 2023-11-16 232442](https://github.com/katumbac/katumbac/assets/93357018/18984200-c3fd-44f6-9d0e-5b64b667323f)|
 
 ## Cursos
 
